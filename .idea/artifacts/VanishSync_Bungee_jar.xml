@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="VanishSync-Bungee:jar">
+    <output-path>E:/Servers/SavageCraft/Proxies/Proxy-0/plugins</output-path>
+    <root id="archive" name="VanishSync-Bungee.jar">
+      <element id="module-output" name="VanishSync-Bungee" />
+      <element id="module-output" name="VanishSync-Common" />
+      <element id="file-copy" path="$PROJECT_DIR$/VanishSync-Bungee/src/resources/bungee.yml" />
+    </root>
+  </artifact>
+</component>

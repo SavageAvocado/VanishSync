@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/VanishSync.iml" filepath="$PROJECT_DIR$/VanishSync.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VanishSync-Bungee/VanishSync-Bungee.iml" filepath="$PROJECT_DIR$/VanishSync-Bungee/VanishSync-Bungee.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VanishSync-Common/VanishSync-Common.iml" filepath="$PROJECT_DIR$/VanishSync-Common/VanishSync-Common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VanishSync-Spigot/VanishSync-Spigot.iml" filepath="$PROJECT_DIR$/VanishSync-Spigot/VanishSync-Spigot.iml" />
+    </modules>
+  </component>
+</project>

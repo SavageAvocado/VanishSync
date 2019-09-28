@@ -1,0 +1,5 @@
+name: VanishSync
+version: '1.0'
+
+main: net.savagedev.vanishsync.bungee.VanishSyncBungee
+author: SavageAvocado

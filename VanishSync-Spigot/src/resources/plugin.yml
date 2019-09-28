@@ -1,0 +1,10 @@
+name: VanishSync
+description: None.
+
+author: SavageAvocado.
+website: savagedev.net
+
+main: net.savagedev.vanishsync.spigot.VanishSyncSpigot
+depend: ["Essentials"]
+api-version: '1.14'
+version: '1.0'

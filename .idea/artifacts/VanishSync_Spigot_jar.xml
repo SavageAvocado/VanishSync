@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="VanishSync-Spigot:jar">
+    <output-path>E:/Servers/SavageCraft/Lobbies/Lobby-0/plugins</output-path>
+    <root id="archive" name="VanishSync-Spigot.jar">
+      <element id="module-output" name="VanishSync-Spigot" />
+      <element id="module-output" name="VanishSync-Common" />
+      <element id="file-copy" path="$PROJECT_DIR$/VanishSync-Spigot/src/resources/plugin.yml" />
+    </root>
+  </artifact>
+</component>
